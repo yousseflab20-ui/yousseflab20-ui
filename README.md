@@ -46,9 +46,3 @@
 </div>
 
 <br>
-
-## 🐍 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yousseflab20-ui/yousseflab20-ui/output/snake.svg" />
-</div>
